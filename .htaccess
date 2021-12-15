@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Passwortgeschützter Bereich"
-AuthUserFile /data/pw/.htpasswd
-Require valid-user
